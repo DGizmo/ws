@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="ru:sfedu:coursework:main:config:hibernate.cfg.xml" uuid="4b6cb850-3132-4e58-afa9-24e88a6ef3a5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

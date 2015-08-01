@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2942744845">
+    <data-source source="LOCAL" name="ru:sfedu:coursework:main:config:hibernate.cfg.xml" uuid="4b6cb850-3132-4e58-afa9-24e88a6ef3a5">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/java_table</jdbc-url>
+      <user-name>root</user-name>
+      <libraries>
+        <library>
+          <url>file://D:\Downloads\simple-xml-2.7.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

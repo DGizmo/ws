@@ -1,0 +1,9 @@
+<artists>
+   <artist>
+      <id>2</id>
+      <artist>xmltest</artist>
+      <rise>2010</rise>
+      <country>RUS</country>
+      <artist_art>test_artist</artist_art>
+   </artist>
+</artists>

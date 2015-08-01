@@ -1,0 +1,252 @@
+17 янв 2015, 12:54:08 INFO Config:37 - success
+17 янв 2015, 13:07:38 ERROR MySQL:29 - com.mysql.jdbc.Driver
+17 янв 2015, 13:07:38 ERROR MySQL:34 - No suitable driver found for jdbc:mysql://localhost/java_table?user=root
+17 янв 2015, 13:16:07 INFO MySQL:32 - sdgsdg
+18 янв 2015, 13:26:09 ERROR MySQL:28 - com.mysql.jdbc.Driver
+18 янв 2015, 13:26:09 ERROR MySQL:33 - No suitable driver found for jdbc:mysql://localhost/java_table?user=root
+18 янв 2015, 13:26:30 ERROR MySQL:28 - com.mysql.jdbc.Driver
+18 янв 2015, 13:26:30 ERROR MySQL:33 - No suitable driver found for jdbc:mysql://localhost/java_table?user=root
+25 янв 2015, 12:31:37 ERROR MySQL:44 - Unknown column 'test2' in 'field list'
+25 янв 2015, 12:32:43 ERROR MySQL:44 - Unknown column 'artist_test' in 'field list'
+25 янв 2015, 12:35:18 ERROR MySQL:44 - Unknown column 'RUS' in 'field list'
+25 янв 2015, 16:17:50 WARN CSV:92 - Не удалось удалить артиста id=1, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 16:18:51 WARN CSV:92 - Не удалось удалить артиста id=0, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 16:20:07 ERROR CSV:41 - Исполнитель с таким id уже существует
+25 янв 2015, 16:53:37 WARN CSV:92 - Не удалось удалить артиста id=0, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 18:07:40 WARN CSV:92 - Не удалось удалить артиста id=1, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 18:07:40 WARN CSV:92 - Не удалось удалить артиста id=2, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 18:13:38 WARN CSV:92 - Не удалось удалить артиста id=1, так как с ним связанна запись в файле C:/Users/Gizmo/IdeaProjects/Course/data/csv/artist.csv
+25 янв 2015, 19:10:22 ERROR Hibernate:141 - 
+25 янв 2015, 19:17:10 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:17:10 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:17:10 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:17:10 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:17:10 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:17:10 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:17:10 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:18:28 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:18:28 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:18:28 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:18:28 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:18:28 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:18:28 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:18:28 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:19:05 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:19:05 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:19:05 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:19:05 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:19:05 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:19:05 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:19:05 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:19:24 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:19:24 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:19:24 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:19:24 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:19:24 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:19:24 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:19:24 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:20:19 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:20:19 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:20:19 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:20:19 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:20:20 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:20:20 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:20:20 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:20:41 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:20:41 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:20:41 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:20:41 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:20:41 INFO Configuration:2075 - HHH000043: Configuring from resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:20:41 INFO Configuration:2094 - HHH000040: Configuration resource: ru.sfedu.coursework.main/config/hibernate.cfg.xml
+25 янв 2015, 19:20:41 ERROR Config:59 - ru.sfedu.coursework.main/config/hibernate.cfg.xml not found
+25 янв 2015, 19:23:43 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:23:43 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:23:43 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:23:43 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:23:43 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:23:43 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:23:43 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+25 янв 2015, 19:23:43 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+25 янв 2015, 19:23:43 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+25 янв 2015, 19:23:43 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/Course]
+25 янв 2015, 19:23:43 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+25 янв 2015, 19:23:43 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+25 янв 2015, 19:23:43 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+25 янв 2015, 19:23:43 ERROR Config:60 - Error calling Driver#connect
+25 янв 2015, 19:36:39 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:36:39 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:36:39 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:36:39 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:36:39 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:36:39 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:36:39 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+25 янв 2015, 19:36:39 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+25 янв 2015, 19:36:39 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+25 янв 2015, 19:36:39 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+25 янв 2015, 19:36:39 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+25 янв 2015, 19:36:39 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+25 янв 2015, 19:36:39 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+25 янв 2015, 19:36:39 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+25 янв 2015, 19:36:39 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+25 янв 2015, 19:36:39 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+25 янв 2015, 19:36:39 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+25 янв 2015, 19:36:40 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+25 янв 2015, 19:36:40 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+25 янв 2015, 19:36:40 INFO SchemaUpdate:230 - HHH000396: Updating schema
+25 янв 2015, 19:36:40 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+25 янв 2015, 19:37:10 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:37:10 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:37:10 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:37:10 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:37:10 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:37:10 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:37:10 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+25 янв 2015, 19:37:10 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+25 янв 2015, 19:37:10 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+25 янв 2015, 19:37:10 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+25 янв 2015, 19:37:10 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+25 янв 2015, 19:37:10 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+25 янв 2015, 19:37:10 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+25 янв 2015, 19:37:10 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+25 янв 2015, 19:37:10 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+25 янв 2015, 19:37:10 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+25 янв 2015, 19:37:10 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+25 янв 2015, 19:37:10 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+25 янв 2015, 19:37:10 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+25 янв 2015, 19:37:10 INFO SchemaUpdate:230 - HHH000396: Updating schema
+25 янв 2015, 19:37:10 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+25 янв 2015, 19:37:23 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 19:37:23 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 19:37:23 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 19:37:23 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 19:37:23 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:37:23 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 19:37:23 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+25 янв 2015, 19:37:23 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+25 янв 2015, 19:37:23 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+25 янв 2015, 19:37:23 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+25 янв 2015, 19:37:23 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+25 янв 2015, 19:37:23 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+25 янв 2015, 19:37:23 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+25 янв 2015, 19:37:24 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+25 янв 2015, 19:37:24 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+25 янв 2015, 19:37:24 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+25 янв 2015, 19:37:24 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+25 янв 2015, 19:37:24 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+25 янв 2015, 19:37:24 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+25 янв 2015, 19:37:24 INFO SchemaUpdate:230 - HHH000396: Updating schema
+25 янв 2015, 19:37:24 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+25 янв 2015, 20:46:49 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+25 янв 2015, 20:46:49 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+25 янв 2015, 20:46:49 INFO Environment:239 - HHH000206: hibernate.properties not found
+25 янв 2015, 20:46:49 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+25 янв 2015, 20:46:49 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 20:46:49 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+25 янв 2015, 20:46:49 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+25 янв 2015, 20:46:49 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+25 янв 2015, 20:46:50 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+25 янв 2015, 20:46:50 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+25 янв 2015, 20:46:50 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+25 янв 2015, 20:46:50 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+25 янв 2015, 20:46:50 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+25 янв 2015, 20:46:50 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+25 янв 2015, 20:46:50 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+25 янв 2015, 20:46:50 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+25 янв 2015, 20:46:50 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+25 янв 2015, 20:46:50 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+25 янв 2015, 20:46:50 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+25 янв 2015, 20:46:50 INFO SchemaUpdate:230 - HHH000396: Updating schema
+25 янв 2015, 20:46:50 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+25 янв 2015, 23:35:35 ERROR MySQL:107 - Cannot add or update a child row: a foreign key constraint fails (`java_table`.`album`, CONSTRAINT `album_ibfk_1` FOREIGN KEY (`artist_name`) REFERENCES `artist` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+25 янв 2015, 23:37:45 ERROR MySQL:118 - Unknown column 'artist' in 'field list'
+25 янв 2015, 23:38:42 ERROR MySQL:118 - Unknown column 'artist' in 'field list'
+26 янв 2015, 01:27:30 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+26 янв 2015, 01:27:30 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+26 янв 2015, 01:27:30 INFO Environment:239 - HHH000206: hibernate.properties not found
+26 янв 2015, 01:27:30 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+26 янв 2015, 01:27:30 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:27:30 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:27:30 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+26 янв 2015, 01:27:30 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+26 янв 2015, 01:27:30 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+26 янв 2015, 01:27:30 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+26 янв 2015, 01:27:30 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+26 янв 2015, 01:27:30 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+26 янв 2015, 01:27:30 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+26 янв 2015, 01:27:30 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+26 янв 2015, 01:27:30 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+26 янв 2015, 01:27:31 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+26 янв 2015, 01:27:31 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+26 янв 2015, 01:27:31 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+26 янв 2015, 01:27:31 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+26 янв 2015, 01:27:31 INFO SchemaUpdate:230 - HHH000396: Updating schema
+26 янв 2015, 01:27:31 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+26 янв 2015, 01:37:57 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+26 янв 2015, 01:37:57 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+26 янв 2015, 01:37:57 INFO Environment:239 - HHH000206: hibernate.properties not found
+26 янв 2015, 01:37:57 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+26 янв 2015, 01:37:57 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:37:57 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:37:57 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+26 янв 2015, 01:37:57 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+26 янв 2015, 01:37:58 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+26 янв 2015, 01:37:58 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+26 янв 2015, 01:37:58 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+26 янв 2015, 01:37:58 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+26 янв 2015, 01:37:58 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+26 янв 2015, 01:37:58 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+26 янв 2015, 01:37:58 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+26 янв 2015, 01:37:58 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+26 янв 2015, 01:37:58 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+26 янв 2015, 01:37:58 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+26 янв 2015, 01:37:58 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+26 янв 2015, 01:37:58 INFO SchemaUpdate:230 - HHH000396: Updating schema
+26 янв 2015, 01:37:58 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+26 янв 2015, 01:37:58 ERROR Hibernate:143 - Unknown entity: ru.sfedu.coursework.main.beans.Artist
+26 янв 2015, 01:37:58 ERROR Hibernate:273 - Unknown entity: ru.sfedu.coursework.main.beans.Album
+26 янв 2015, 01:39:22 ERROR Hibernate:273 - 
+26 янв 2015, 01:39:22 ERROR Hibernate:143 - 
+26 янв 2015, 01:39:22 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+26 янв 2015, 01:39:22 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+26 янв 2015, 01:39:22 INFO Environment:239 - HHH000206: hibernate.properties not found
+26 янв 2015, 01:39:22 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+26 янв 2015, 01:39:22 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:39:22 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:39:22 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+26 янв 2015, 01:39:22 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+26 янв 2015, 01:39:22 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+26 янв 2015, 01:39:22 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+26 янв 2015, 01:39:22 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+26 янв 2015, 01:39:22 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+26 янв 2015, 01:39:22 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+26 янв 2015, 01:39:22 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+26 янв 2015, 01:39:23 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+26 янв 2015, 01:39:23 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+26 янв 2015, 01:39:23 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+26 янв 2015, 01:39:23 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+26 янв 2015, 01:39:23 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+26 янв 2015, 01:39:23 INFO SchemaUpdate:230 - HHH000396: Updating schema
+26 янв 2015, 01:39:23 INFO SchemaUpdate:267 - HHH000232: Schema update complete
+26 янв 2015, 01:40:12 ERROR Hibernate:273 - 
+26 янв 2015, 01:40:12 ERROR Hibernate:143 - 
+26 янв 2015, 01:40:13 INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+26 янв 2015, 01:40:13 INFO Version:54 - HHH000412: Hibernate Core {4.3.8.Final}
+26 янв 2015, 01:40:13 INFO Environment:239 - HHH000206: hibernate.properties not found
+26 янв 2015, 01:40:13 INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+26 янв 2015, 01:40:13 INFO Configuration:2075 - HHH000043: Configuring from resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:40:13 INFO Configuration:2094 - HHH000040: Configuration resource: ru/sfedu/coursework/main/config/hibernate.cfg.xml
+26 янв 2015, 01:40:13 WARN DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+26 янв 2015, 01:40:13 INFO Configuration:2216 - HHH000041: Configured SessionFactory: null
+26 янв 2015, 01:40:13 WARN DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+26 янв 2015, 01:40:13 INFO DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/java_table]
+26 янв 2015, 01:40:13 INFO DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, autocommit=false}
+26 янв 2015, 01:40:13 INFO DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+26 янв 2015, 01:40:13 INFO DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+26 янв 2015, 01:40:13 INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+26 янв 2015, 01:40:13 INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+26 янв 2015, 01:40:13 INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+26 янв 2015, 01:40:13 INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+26 янв 2015, 01:40:13 INFO SchemaUpdate:207 - HHH000228: Running hbm2ddl schema update
+26 янв 2015, 01:40:13 INFO SchemaUpdate:218 - HHH000102: Fetching database metadata
+26 янв 2015, 01:40:13 INFO SchemaUpdate:230 - HHH000396: Updating schema
+26 янв 2015, 01:40:13 INFO SchemaUpdate:267 - HHH000232: Schema update complete
